@@ -1,4 +1,8 @@
 #    GoogleSheetCryptocurrencyLedger
+![](https://i.imgur.com/Hdfk7q4.png)
+
+
+## 使用教學
 
 第一步到
 https://script.google.com/
@@ -66,9 +70,13 @@ https://docs.google.com/spreadsheets
 ![](https://i.imgur.com/sDwhnYK.png)
 
 
-點\擊擊 前往 未命名的專案
+點擊 前往 未命名的專案
 ![](https://i.imgur.com/3H8WEgi.png)
 
 
 允許
 ![](https://i.imgur.com/bTB5U79.png)
+
+
+好ㄌ
+![](https://i.imgur.com/EgDLxjG.png)
