@@ -66,7 +66,7 @@ https://docs.google.com/spreadsheets
 ![](https://i.imgur.com/sDwhnYK.png)
 
 
-典籍 前往 未命名的專案
+點\擊擊 前往 未命名的專案
 ![](https://i.imgur.com/3H8WEgi.png)
 
 
